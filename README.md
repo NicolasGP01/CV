@@ -26,8 +26,8 @@ Opción 1
     </style>
 </head>
 <body>
-    <h1>Mi Currículum Vitae</h1>
-    <embed src="CV.pdf" type="application/pdf">
+    <h1>Nicolás García Peñaloza</h1>
+    <embed src="Nicolás_García_Peñaloza_CV.pdf" type="application/pdf">
 </body>
 </html>
 
@@ -70,8 +70,8 @@ Opción 1
     </style>
 </head>
 <body>
-    <h1>Mi Currículum Vitae</h1>
-    <embed src="CV.pdf" type="application/pdf">
+    <h1>Nicolás García Peñaloza</h1>
+    <embed src="Nicolás_García_Peñaloza_CV.pdf" type="application/pdf">
     <br>
     <a class="download-btn" href="CV.pdf" download>Descargar CV</a>
 </body>
@@ -109,8 +109,8 @@ Opción 1
 </head>
 <body>
     <div class="cv-container">
-        <h1>Mi Currículum Vitae</h1>
-        <embed src="CV.pdf" type="application/pdf">
+        <h1>Nicolás García Peñaloza</h1>
+        <embed src="Nicolás_García_Peñaloza_CV.pdf" type="application/pdf">
     </div>
 </body>
 </html>

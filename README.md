@@ -117,3 +117,29 @@ Opción 1
 
 *******************************************************
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        embed {
+            width: 80%;
+            height: 90vh;
+            border: 2px solid #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Nicolás García Peñaloza</h1>
+    <embed src="Nicolás_García_Peñaloza_CV.pdf" type="application/pdf">
+</body>
+</html>
+
